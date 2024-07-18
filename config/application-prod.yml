@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: sample
+sample:
+  message: "Tchau"
+  default-value: "Mondo"
